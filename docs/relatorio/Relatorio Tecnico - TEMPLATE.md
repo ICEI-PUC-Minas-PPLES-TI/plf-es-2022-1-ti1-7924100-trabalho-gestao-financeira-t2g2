@@ -204,8 +204,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| Interface colorida e intuitiva  | MÉDIA | 
-|RNF-002| Facilidade de uso               | MÉDIA |
-|RNF-003| Retornar resultados rapidamente | ALTA  |
+|RNF-002| Facilidade de uso               | ALTA  |
+|RNF-003| O site será publicado no GitHub | MÉDIA |
+|RNF-004| O site deverá ser responsivo    | ALTA  |
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
