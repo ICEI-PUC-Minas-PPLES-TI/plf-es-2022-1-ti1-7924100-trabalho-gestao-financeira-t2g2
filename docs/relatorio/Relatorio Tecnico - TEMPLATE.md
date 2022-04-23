@@ -169,8 +169,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Usuário do sistema  | Organizar os meus gastos           | Administrar o meu salário              |
+|Usuário do sistema  | Controlar minhas finanças          | Não gastar dinheiro impulsivamente     |
+|Usuário do sistema  | Controle de gastos com compras     | Limitar meus gastos mensais            |
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
@@ -191,16 +192,20 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
+|RF-001| Categorização de gastos                 | ALTA  | 
+|RF-002| Relembrar datas de pagamento            | MÉDIA |
+|RF-003| Gráficos e tabelas                      | MÉDIA |
+|RF-004| Possibilade de criar objetivos          | MÉDIA |
+|RF-005| Notificação de excesso de gastos        | ALTA  |
+|RF-006| Declaração de recibos e despesas        | ALTA  |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| Interface colorida e intuitiva  | MÉDIA | 
+|RNF-002| Facilidade de uso               | MÉDIA |
+|RNF-003| Retornar resultados rapidamente | ALTA  |
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
