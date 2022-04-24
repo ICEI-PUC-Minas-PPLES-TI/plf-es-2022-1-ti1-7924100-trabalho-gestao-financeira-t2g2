@@ -300,22 +300,34 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
 
-> Apresente as principais interfaces da solução. Discuta como 
-> foram elaboradas de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](#especificações-do-projeto).
+
+A interface do nosso programa tem como objetivo ser bem simples e intuitiva, com palavras chaves que levam a pessoa ao que ela busca, como por exemplo esta interface que representa uma previa da página inicial do app. 
+
+![front](https://user-images.githubusercontent.com/67551515/165001352-1c62beb8-4f85-4024-aaa7-0d8a684076aa.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Que mostra algumas informaçoes basicas como o saldo em conta da pessoa, e dinheiro de entrada( que ganhou) e de saida( que gastou).caso a pessoa queira ver o mapeamente de suas dispesas ela pode cilcar e sera diresionado a escolher a opcao que mais a agrada como demontrarei no user flow e no wireframe
+
 
 ## User Flow
 
 ......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ......
 
-> Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
-> mapear todo fluxo de telas do site ou app. Essa técnica funciona
-> para alinhar os caminhos e as possíveis ações que o usuário pode
-> fazer junto com os membros de sua equipe.
->
+![New User Flow](https://user-images.githubusercontent.com/99201419/165001522-71aebd26-cd1d-43ea-93b5-1eea360eb286.png)
+
 > **Links Úteis**:
 > - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
 > - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
@@ -328,12 +340,38 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Wireframes
 
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
 
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
+Login.Usuario tem a opcao de criar uma conta ou logar em uma ja
+existente
+
+
+![Captura de tela 2022-04-24 204745](https://user-images.githubusercontent.com/99201419/165001767-2b7eb7aa-11ce-4e0b-a29c-43b3a027a550.png)
+
+
+Pagina principal do app. Pagina inicial do app, aqui o usuario encontra as infirmações mais basicas do app, o qual ele tem 5 opções: mapeamento de despesas, investimentos,simulação, configuraçoes e perfil.
+
+
+![front](https://user-images.githubusercontent.com/67551515/165001352-1c62beb8-4f85-4024-aaa7-0d8a684076aa.png)
+
+
+Mapeamento de despesas. Onde o usuario pode ver o dinheiro de entrada ou o de saida, e saber as informaçoes sobre suas despesas.
+
+
+![Captura de tela 2022-04-24 204835](https://user-images.githubusercontent.com/99201419/165001785-a5e0c6e8-07e2-42c3-abea-d2861806c6da.png)
+
+
+Investimentos. Onde o usuario pode ver suas informações sobre investimentos.
+
+
+![Captura de tela 2022-04-24 204937](https://user-images.githubusercontent.com/99201419/165001820-a25ef609-93a7-458c-8c13-36fda9b73efb.png)
+
+
+Simulação. Onde o usuario pode fazer simulacoes sobre gastos, investimentos ou gastos.
+
+
+![Captura de tela 2022-04-24 205033](https://user-images.githubusercontent.com/99201419/165001855-ca5387e5-ac9d-4133-aee7-e89962598876.png)
+
+
 > 
 > **Links Úteis**:
 > - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
