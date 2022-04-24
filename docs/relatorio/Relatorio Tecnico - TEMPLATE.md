@@ -100,7 +100,76 @@ Logo, é possível afirmar que a coleta de dados online e em em campo foi fundam
 
 ## Personas e Mapas de Empatia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+
+>Persona 1:
+-Nome: Davi
+-Idade: 31 anos
+-Trabalho: Área de TI
+-Perfil: Reservado, Pão duro, Organizado, Antenado.
+-Desejos:Casa própria, Renda alta, Liberdade financeira, Suporte financeiro para a família, Empreender.
+-roblemas: Controle do tempo, organizar compromissos, não atingir objetivos de carreira ainda, falta de tempo.
+
+
+Mapa de empatia:
+
+-Sente: imediatista; 
+-O que realmente importa? Dinheiro na conta, sucesso no trabalho;
+-O que mais preocupa? Não ter reservas financeiras no futuro;
+-Anseios: Casa própria;
+-Inspirações: Mark Zuckerberg, Warren Buffet, Wendell Carvalho. 
+
+-"Dores"(necessidades,problemas que enfrenta, frustrações, obstáculos): 
+Controle do tempo, organizar compromissos, não atingir objetivos de carreira ainda, falta de tempo.
+
+-"Ganhos"(desejos, benefécios, expêriencias que amplificam sua experiência): 
+Melhor ambiente de trabalho, salário elevado, trabalhar onde quiser, já tem posição elevada no trabalho.
+
+
+>Pesona 2:
+-Nome: Ana 
+-Idade: 26 anos 
+-Trabalho: Comerciante
+-Desejos: Independência financeira, Qualidade de vida, Bem estar familiar, Rodar o mundo.
+-Perfil: Comunicativa, Extrovertida, Esforçada,  Organizada.
+-Problemas: Dívidas, falta de tempo; sempre sem dinheiro; não conseguir ajudar a família financeiramente, burnout.
+
+
+Mapa de empatia:
+
+-Sente: medo do futuro, presa à rotina;
+-O que realmente importa? independência financeira, qualidade de vida;
+-O que mais preocupa? controle de gastos, bem estar familiar;
+-Anseios: mudar de emprego, subir de cargo;
+-Inspirações: Janis Joplin, Clarice Lispector, Machado de Assis. 
+
+-"Dores"(necessidades, problemas que enfrenta, frustrações, obstáculos): 
+Dívidas, falta de tempo, sempre sem dinheiro, não conseguir ajudar a família financeiramente, burnout.
+
+-"Ganhos"(desejos, benefécios, expêriencias que amplificam sua experiência): 
+Rodar o mundo, socializar, sua boa comunicação a emancipa.
+
+
+>Persona 3:
+-Nome: Patrícia 
+-Idade: 40 anos 
+-Trabalho: Funcionária pública 
+-Perfil: Organizada, Preocupada, Atenta, Dócil,  Atenciosa.
+-Desejos: Quitar as dívidas, Dar um futuro bom para os filhos, Ter uma boa aposentadoria. 
+-Problemas: Dívidas, parcelas do financiamento, ainda não ter imóvel próprio, sustentar a educação dos filhos.
+
+Mapa de empatia: 
+
+-Sente: independência financeira, medo do futuro;
+-O que realmente importa? bem estar familiar, qualidade de vida, uma boa aposentadoria;
+-O que mais preocupa? quitar as dívidas, futuro dos filhos;
+-Anseios: plano de carreira;
+-Inspirações: seus pais, filhos, Simone de Beauvoir.
+
+-"Dores"(necessidades,problemas que enfrenta, frustrações, obstáculos): 
+Dívidas, parcelas do financiamento, ainda não ter imóvel próprio, sustentar a educação dos filhos,
+
+-"Ganhos"(desejos, benefécios, expêriencias que amplificam sua experiência): 
+Já tem uma certa estabilidade financeira; ter uma família;
 
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
