@@ -102,11 +102,17 @@ Logo, é possível afirmar que a coleta de dados online e em em campo foi fundam
 
 
 >Persona 1:
+
 -Nome: Davi
+
 -Idade: 31 anos
+
 -Trabalho: Área de TI
+
 -Perfil: Reservado, Pão duro, Organizado, Antenado.
+
 -Desejos:Casa própria, Renda alta, Liberdade financeira, Suporte financeiro para a família, Empreender.
+
 -roblemas: Controle do tempo, organizar compromissos, não atingir objetivos de carreira ainda, falta de tempo.
 
 
@@ -126,11 +132,17 @@ Melhor ambiente de trabalho, salário elevado, trabalhar onde quiser, já tem po
 
 
 >Pesona 2:
+
 -Nome: Ana 
+
 -Idade: 26 anos 
+
 -Trabalho: Comerciante
+
 -Desejos: Independência financeira, Qualidade de vida, Bem estar familiar, Rodar o mundo.
+
 -Perfil: Comunicativa, Extrovertida, Esforçada,  Organizada.
+
 -Problemas: Dívidas, falta de tempo; sempre sem dinheiro; não conseguir ajudar a família financeiramente, burnout.
 
 
@@ -150,11 +162,17 @@ Rodar o mundo, socializar, sua boa comunicação a emancipa.
 
 
 >Persona 3:
+
 -Nome: Patrícia 
+
 -Idade: 40 anos 
+
 -Trabalho: Funcionária pública 
+
 -Perfil: Organizada, Preocupada, Atenta, Dócil,  Atenciosa.
+
 -Desejos: Quitar as dívidas, Dar um futuro bom para os filhos, Ter uma boa aposentadoria. 
+
 -Problemas: Dívidas, parcelas do financiamento, ainda não ter imóvel próprio, sustentar a educação dos filhos.
 
 Mapa de empatia: 
