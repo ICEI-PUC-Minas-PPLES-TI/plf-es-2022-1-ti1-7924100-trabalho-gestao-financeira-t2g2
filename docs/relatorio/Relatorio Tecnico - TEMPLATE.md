@@ -82,7 +82,7 @@ Como objetivos específicos, podemos ressaltar:
 
 ## Justificativa
 
-> A motivação para a resolução do problema foi o desejo de traduzir o problema real do usuário por meio do uso de ferramentas matemáticas que podem ser implementadas no corpo do software. Além disso, a própria interação do grupo com indivíduos reais, que apresentam problemas vividos em seu cotidiano e, por isso, buscam uma resolução prática e rápida para suas respectivas dores. Além do questionário realizado pela plataforma Google Fóruns, realizou-se também entrevistas de campo para que se fossem obtidas informações cada vez mais detalhadas desses problemas, o que contribuiu para o entendimento geral da problemática.
+A motivação para a resolução do problema foi o desejo de traduzir o problema real do usuário por meio do uso de ferramentas matemáticas que podem ser implementadas no corpo do software. Além disso, a própria interação do grupo com indivíduos reais, que apresentam problemas vividos em seu cotidiano e, por isso, buscam uma resolução prática e rápida para suas respectivas dores. Além do questionário realizado pela plataforma Google Fóruns, realizou-se também entrevistas de campo para que se fossem obtidas informações cada vez mais detalhadas desses problemas, o que contribuiu para o entendimento geral da problemática.
 
 De fato, existe já disponível no mercado uma série de apps e plataformas - inclusive feitas pelas próprias instituições bancárias -, mas que, aparentemente, não solucionaram o problema de gestão dos indivíduos que responderam à pesquisa realizada pelo fórum. 
 
@@ -94,11 +94,9 @@ Desta forma, estabeleceu-se como público-alvo desta solução pessoas que se id
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Foi por meio de reuniões semanais que se deu a personificação do problema. Nos primeiros encontros debateu-se sobre quem seriam os possíveis usuários da referida aplicação e se era necessário que esse usuário tivesse uma renda para utilizar a plataforma. É importante ressaltar que dúvidas e suposições foram fundamentais para o desenvolvimento da pesquisa e coleta de dados. Vale ressaltar também que, além do formulário criado, os membros da equipe foram a campo para conhecer esse usuário em potencial no corpo a corpo, com o objetivo de entender sua rotina, seus sonhos, aspirações, anseios e comportamentos financeiros apresentados por eles. 
 
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+Logo, é possível afirmar que a coleta de dados online e em em campo foi fundamental para que as histórias e problemas reais relatados pelos contribuidores tomassem corpo em três personas distintas. Estas, o time acredita, são as três grandes figuras centrais, o grande foco e inspiração para o referido trabalho.
 
 ## Personas e Mapas de Empatia
 
