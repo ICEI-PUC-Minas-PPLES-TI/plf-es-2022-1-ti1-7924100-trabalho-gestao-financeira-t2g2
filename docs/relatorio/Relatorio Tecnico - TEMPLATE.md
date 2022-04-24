@@ -57,75 +57,40 @@
 - [Referências](#referências)
 
 
+
 # Introdução
+Cada dia que passa, a informação tem se tornado o ativo mais importante na vida de pessoas e das organizações. Informações precisas, imparciais e obtidas no momento exato são fundamentais para se orientar nesse mundo de grandes incertezas. //teste
+
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Pela configuração da Matriz sobre as Certezas, Suposições e Dúvidas feita pelo referido grupo do projeto, foi selecionada uma série de perguntas sobre finanças pessoais e organização financeira. Por meio das respostas acreditou-se que haveria um maior entendimento sobre como poderia ser realizada a aplicação web. Contudo, o grupo necessitou de uma ferramenta para pulverizar todas essas perguntas de maneira aberta para o público e que este, em modo anônimo caso preferisse, pudesse respondê-las. Para realizar tal pesquisa foi utilizada a plataforma Google Fóruns.
 
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+As perguntas disponibilizadas para este público retornaram que, dentre as pessoas que têm renda, cerca de 70% não realiza nenhum tipo de mapeamento financeiro. Desse universo, aproximadamente 56% das pessoas afirmou ter algum tipo de poupança ou dinheiro guardado, enquanto cerca de 44% afirmou não fazer esse tipo de aplicação. Também foi questionado no fórum se esse usuário em potencial recebeu algum tipo de educação financeira e por volta de 80% das respostas afirmou não ter recebido educação monetária ao longo de sua formação.
+
+Apesar de alguns usuários relatarem a segurança de ter uma poupança com rendimentos, o panorama geral nos fez acreditar que as dores referentes à gestão financeira desses indivíduos era causada justamente pela falta de mapeamento - sejam esses mapeamentos sobre quaisquer rótulos de gastos, despesas, entradas e saídas monetárias. Por consequência, sua ausência pode resultar em um descontrole sobre o patrimônio que cada indivíduo constrói ao longo de sua vida.
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O objetivo geral deste trabalho é a criação de uma aplicação web que apresente ferramentas de fácil uso e que permita a visualização do comportamento financeiro do usuário por meio de gráficos, tabelas e projeções.
 
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Como objetivos específicos, podemos ressaltar:
+- Entrada para o usuário declarar recibos e despesas;
+- Mapeamento dos gastos. Exemplo: 30% alimentação, 30% investimento, etc;
+- Notificar o usuário quando este excede o limite de gastos;
+- Notificar o usuário quando têm contas para pagar ou quando está negativado em relação a alguém ou alguma instituição.
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+> A motivação para a resolução do problema foi o desejo de traduzir o problema real do usuário por meio do uso de ferramentas matemáticas que podem ser implementadas no corpo do software. Além disso, a própria interação do grupo com indivíduos reais, que apresentam problemas vividos em seu cotidiano e, por isso, buscam uma resolução prática e rápida para suas respectivas dores. Além do questionário realizado pela plataforma Google Fóruns, realizou-se também entrevistas de campo para que se fossem obtidas informações cada vez mais detalhadas desses problemas, o que contribuiu para o entendimento geral da problemática.
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+De fato, existe já disponível no mercado uma série de apps e plataformas - inclusive feitas pelas próprias instituições bancárias -, mas que, aparentemente, não solucionaram o problema de gestão dos indivíduos que responderam à pesquisa realizada pelo fórum. 
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Embora todas as pessoas possam se beneficiar de soluções apresentadas pelo software em questão, o foco deste trabalho está no público que tenha renda e está em busca constante de consolidar seu patrimônio, ou que já tenha este patrimônio consolidado e busca somente organizá-lo de maneira concisa e com o detalhamento matemático necessário.
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Desta forma, estabeleceu-se como público-alvo desta solução pessoas que se identifiquem com qualquer orientação de gênero, nas idades entre 25 e 40 anos, com carreiras já consolidadas ou não, e que fazem uso frequente de computadores e dispositivos móveis. Tal indivíduo estaria apto para se atualizar e detalhar seus sonhos e aspirações por meio de um efetivo controle financeiro e, por consequência, colocar planos e metas em prática.
  
 # Especificações do Projeto
 
