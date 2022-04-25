@@ -55,16 +55,24 @@
 
 
 # Introdução
-Cada dia que passa, a informação tem se tornado o ativo mais importante na vida de pessoas e das organizações. Informações precisas, imparciais e obtidas no momento exato são fundamentais para se orientar nesse mundo de grandes incertezas. //teste
+
+Em um mundo onde as informações são processadas rapidamente e os resultados são cobrados em contextos imediatos após ações executadas, é natural de se esperar que muitas tomadas de decisões relacionadas à organização financeira se percam no caminho. Não faltam informações, dicas, tutoriais e ensinamentos sobre gestão monetária na world wide web, no entanto, cerca de 48% dos consumidores brasileiros negativaram seu nome — é o que mostra um levantamento realizado em 2019 pela Confederação Nacional de Dirigentes Lojistas (CNDL) e pelo Serviço de Proteção ao Crédito (SPC).
+
+Um dos motivos listados para esse descontrole financeiro na referida pesquisa é, por exemplo, a falta de anotações para entradas e saídas de gastos. Esquecer-se de anotar o valor pago em um “cafezinho” pode, aparentemente, parecer irrisório em certo contexto, mas se essa anotação não tornar-se um hábito constante, todo o mapeamento financeiro de um indivíduo pode vir a calhar. 
+
+Logo, por meio de técnicas elaboradas pela engenharia de software, os membros da equipe pretendem construir uma aplicação online que solucione, ao menos em parte, o grande problema que acomete a vida de tantos consumidores. O presente trabalho documenta a construção dessa aplicação, que tem como meta garantir atributos funcionais, eficientes, seguros e de usabilidade ao usuário.
 
 
 ## Problema
+As dúvidas sanadas nos portais de buscas não seriam suficientes para o entendimento de uma situação tão ampla. Se era preciso mais, conhecer a pessoa real por trás desse transtorno é o primeiro desafio. Com a ajuda da “Matriz CSD”, o grupo selecionou possíveis questões, situações, experiências e panoramas que geralmente acometem indivíduos no universo da gestão financeira. E foi por meio desse levantamento e também por entrevistas realizadas em campo, que o grupo obteve um relativo entendimento da situação. 
 
-Pela configuração da Matriz sobre as Certezas, Suposições e Dúvidas feita pelo referido grupo do projeto, foi selecionada uma série de perguntas sobre finanças pessoais e organização financeira. Por meio das respostas acreditou-se que haveria um maior entendimento sobre como poderia ser realizada a aplicação web. Contudo, o grupo necessitou de uma ferramenta para pulverizar todas essas perguntas de maneira aberta para o público e que este, em modo anônimo caso preferisse, pudesse respondê-las. Para realizar tal pesquisa foi utilizada a plataforma Google Fóruns.
+O grupo necessitou de uma ferramenta para pulverizar tais perguntas. Logo, para que a pesquisa tivesse alcance, a coleta dessas informações foi realizada por meio da plataforma Google Fóruns na qual o usuário, em uma única página selecionava, as respostas nas quais mais se pautava o seu contexto financeiro.
 
-As perguntas disponibilizadas para este público retornaram que, dentre as pessoas que têm renda, cerca de 70% não realiza nenhum tipo de mapeamento financeiro. Desse universo, aproximadamente 56% das pessoas afirmou ter algum tipo de poupança ou dinheiro guardado, enquanto cerca de 44% afirmou não fazer esse tipo de aplicação. Também foi questionado no fórum se esse usuário em potencial recebeu algum tipo de educação financeira e por volta de 80% das respostas afirmou não ter recebido educação monetária ao longo de sua formação.
+Dentre as perguntas disponibilizadas para esse público, 90% das respostas afirmaram que esse indivíduo em questão tem renda e que cerca de 70% não realizam nenhum tipo de mapeamento financeiro. Desse universo, aproximadamente 56% das pessoas relatam ter poupança ou algum tipo de dinheiro guardado, enquanto cerca de 44% afirmou não fazer esse tipo de aplicação. 
 
-Apesar de alguns usuários relatarem a segurança de ter uma poupança com rendimentos, o panorama geral nos fez acreditar que as dores referentes à gestão financeira desses indivíduos era causada justamente pela falta de mapeamento - sejam esses mapeamentos sobre quaisquer rótulos de gastos, despesas, entradas e saídas monetárias. Por consequência, sua ausência pode resultar em um descontrole sobre o patrimônio que cada indivíduo constrói ao longo de sua vida.
+Também foi questionado no fórum se esse usuário em potencial recebeu algum tipo de educação financeira ao longo de sua vida e cerca de 80% das respostas afirmaram não ter recebido educação monetária em sua formação.
+
+Esse panorama fez os membros da equipe acreditarem que as dores referentes à gestão financeira desses indivíduos era causada justamente pela falta de mapeamento - sejam eles sobre quaisquer rótulos, desde gastos e despesas, e até mesmo por ignorarem o fator esquecimento quando se trata de tomar notas sobre tais valores. Por consequência, a ausência desse registro pode resultar em um descontrole sobre o patrimônio que cada indivíduo constrói dia após dia.
 
 ## Objetivos
 
