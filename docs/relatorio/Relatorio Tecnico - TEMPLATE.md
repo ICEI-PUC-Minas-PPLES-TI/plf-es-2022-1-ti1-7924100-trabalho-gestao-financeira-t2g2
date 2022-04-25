@@ -1,11 +1,11 @@
 # Informações do Projeto
-`Projeto de Gestão Financeira`  
+`NOME DO PROJETO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  Projeto de Gestão Financeira ......
 
-`Engenharia de Software` 
+`CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  Engenharia de Software ......
 
 ## Participantes
 
