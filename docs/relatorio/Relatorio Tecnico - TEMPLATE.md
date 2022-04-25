@@ -352,15 +352,9 @@ Simulação. Onde o usuario pode fazer simulacoes sobre gastos, investimentos ou
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Nesta parte do documento, você deve apresentar a metodologia 
-> adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
-> a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
-> gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
+> O processo de trabalho foi realizado por meio de reuniões semanais na Faculdade e na plataforma online do Google Meets. Nesses encontros compartilhamos ideias, dúvidas, certezas e suposições sobre o problema, mapeamos o
+público alvo, fomos a campo fazer as entrevistas e com elas construímos as personas, identificando os problemas mais comuns e já pensando possíveis 
+soluções para o problema. 
 > 
 > **Links Úteis**:
 > - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
@@ -372,7 +366,12 @@ Simulação. Onde o usuario pode fazer simulacoes sobre gastos, investimentos ou
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
+> Joana: Contexto do Problema
+Henrique e Eduardo: Público Alvo | Personas
+André: Proposta de solução | Objetivos
+ Maria Eduarda: História de usuários e requisitos
+Gustavo: Projeto de interface
+Pedro: Metodologia
 >
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
@@ -385,14 +384,13 @@ Simulação. Onde o usuario pode fazer simulacoes sobre gastos, investimentos ou
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro |  https://miro.com/XXXXXXX | 
-|Repositório de código | GitHub | https://github.com/XXXXXXX | 
-|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
+|Processo de Design Thinkgin  | Miro |   | https://miro.com/app/board/uXjVOBTKAwM=/
+|Repositório de código | GitHub |  | https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-ti1-7924100-trabalho-gestao-financeira-t2g2
+|Hospedagem do site | Heroku |  XXXXX | 
+|Protótipo Interativo | MavelApp ou Figma | XXXXXX | 
 
 >
-> Liste as ferramentas empregadas no desenvolvimento do
-> projeto, justificando a escolha delas, sempre que possível.
+> Miro, GitHub, google docs, PowerPoint, Figma, Canva, google drive, Google Meets. 
 > 
 > As ferramentas empregadas no projeto são:
 > 
