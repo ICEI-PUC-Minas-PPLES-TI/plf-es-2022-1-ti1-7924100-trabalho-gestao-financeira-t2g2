@@ -528,7 +528,7 @@ Simulação. Onde o usuario pode fazer simulacoes sobre gastos, investimentos ou
 
 # Referências
 
-......  COLOQUE AQUI O SEU TEXTO ......
+MORBECK, Amandina. Pesquisa mostra descontrole financeiro de metade dos brasileiros. Você e seu dinheiro. 05. fev. 2020. Disponível em: https://voceeseudinheiro.com.br/pesquisa-mostra-descontrole-financeiro-de-metade-dos-brasileiros/. Acesso em: 24 abr. 2022;
 
 > Inclua todas as referências (livros, artigos, sites, etc) utilizados
 > no desenvolvimento do trabalho.
