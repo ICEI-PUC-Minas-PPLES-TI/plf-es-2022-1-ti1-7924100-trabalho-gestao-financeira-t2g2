@@ -319,12 +319,12 @@ A interface do nosso programa tem como objetivo ser bem simples e intuitiva, com
 
 
 
-Que mostra algumas informaçoes basicas como o saldo em conta da pessoa, e dinheiro de entrada( que ganhou) e de saida( que gastou).caso a pessoa queira ver o mapeamente de suas dispesas ela pode cilcar e sera diresionado a escolher a opcao que mais a agrada como demontrarei no user flow e no wireframe
+Que mostra algumas informações básicas como o saldo em conta da pessoa, e dinheiro de entrada( que ganhou) e de saida( que gastou).caso a pessoa queira ver o mapeamento de suas despesas ela pode clicar e sera direcionado a escolher a opção que mais a agrada como demonstrarei no user flow e no wireframe.
 
 
 ## User Flow
 
-......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ......
+
 
 ![New User Flow](https://user-images.githubusercontent.com/99201419/165001522-71aebd26-cd1d-43ea-93b5-1eea360eb286.png)
 
