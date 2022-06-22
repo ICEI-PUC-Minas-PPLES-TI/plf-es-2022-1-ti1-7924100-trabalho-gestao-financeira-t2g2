@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Cadastro de objetivos | PROJETO GESTÃO FINANCEIRA </title>
+    <meta charset="windows-1252">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+        .container {
+            overflow: hidden
+        }
+
+        .tab {
+            float: left;
+        }
+
+        .tab-2 {
+            margin-left: 50px
+        }
+
+        .tab-2 input {
+            display: block;
+            margin-bottom: 10px
+        }
+
+        tr {
+            transition: all .25s ease-in-out
+        }
+
+        tr:hover {
+            background-color: #EEE;
+            cursor: pointer
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="tab tab-1">
+            <table id="table" border="1">
+                <tr>
+                    <th>Nome do projeto</th>
+                    <th>Descrição do projeto</th>
+                    <th>VALOR TOTAL R$</th>
+                </tr>
+                <tr>
+                    <td>Mochilão América do Sul</td>
+                    <td>Viagem de 15 dias percorrendo 5 países: Peru, Bolívia, Chile, Uruguai, Brasil</td>
+                    <td>5000</td>
+                </tr>
+                <tr>
+                    <td>Pintura sala</td>
+                    <td>Alterar cores de parede</td>
+                    <td>300</td>
+                </tr>
+                <tr>
+                    <td>Mensalidade academia</td>
+                    <td>Academia CorpoLivre - pgto MENSAL </td>
+                    <td>89</td>
+                </tr>
+            </table>
+        </div>
+        <div class="tab tab-2">
+            Nome do projeto: <input type="text" name="nomeDoProjeto" id="nomeDoProjeto">
+            Descrição do projeto: <input type="text" name="descricao" id="descricao">
+            VALOR TOTAL R$:<input type="number" name="valorTotal" id="valorTotal">
+
+            <button onclick="addHtmlTableRow();">Adicionar projeto</button>
+            <button onclick="editHtmlTbleSelectedRow();">Editar projeto</button>
+            <button onclick="removeSelectedRow();">Remover projeto</button>
+        </div>
+    </div>
+
+    <script>
+
+        var rIndex,
+            table = document.getElementById("table");
+
+        // check the empty input
+        function checkEmptyInput()
+        {
+            var isEmpty = false,
+                fname = document.getElementById("nomeDoProjeto").value,
+                lname = document.getElementById("descricao").value,
+                age = document.getElementById("valorTotal").value;
+
+            if (fname === "") {
+                alert("ATENÇÃO: o campo 'Nome do projeto' não pode ficar vazio! Preencha corretamente.");
+                isEmpty = true;
+            }
+            else if (lname === "") {
+                alert("ATENÇÃO: o campo 'Descrição do projeto' não pode ficar vazio! Preencha corretamente.");
+                isEmpty = true;
+            }
+            else if (age === "") {
+                alert("ATENÇÃO: o campo 'VALOR R$' não pode ficar vazio! Preencha corretamente.");
+                isEmpty = true;
+            }
+            return isEmpty;
+        }
+
+        function addHtmlTableRow()
+        {
+            if (!checkEmptyInput()) {
+                var newRow = table.insertRow(table.length),
+                    cell1 = newRow.insertCell(0),
+                    cell2 = newRow.insertCell(1),
+                    cell3 = newRow.insertCell(2),
+                    nomeDoProjeto = document.getElementById("nomeDoProjeto").value,
+                    descricao = document.getElementById("descricao").value,
+                    valorTotal = document.getElementById("valorTotal").value;
+
+                cell1.innerHTML = nomeDoProjeto;
+                cell2.innerHTML = descricao;
+                cell3.innerHTML = valorTotal;
+
+                selectedRowToInput();
+            }
+        }
+
+        function selectedRowToInput()
+        {
+
+            for (var i = 1; i < table.rows.length; i++) {
+                table.rows[i].onclick = function ()
+                {
+                    rIndex = this.rowIndex;
+                    document.getElementById("nomeDoProjeto").value = this.cells[0].innerHTML;
+                    document.getElementById("descricao").value = this.cells[1].innerHTML;
+                    document.getElementById("valorTotal").value = this.cells[2].innerHTML;
+                };
+            }
+        }
+        selectedRowToInput();
+
+        function editHtmlTbleSelectedRow()
+        {
+            var nomeDoProjeto = document.getElementById("nomeDoProjeto").value,
+                descricao = document.getElementById("descricao").value,
+                valorTotal = document.getElementById("valorTotal").value;
+            if (!checkEmptyInput()) {
+                table.rows[rIndex].cells[0].innerHTML = nomeDoProjeto;
+                table.rows[rIndex].cells[1].innerHTML = descricao;
+                table.rows[rIndex].cells[2].innerHTML = valorTotal;
+            }
+        }
+
+        function removeSelectedRow()
+        {
+            table.deleteRow(rIndex);
+
+            document.getElementById("nomeDoProjeto").value = "";
+            document.getElementById("descricao").value = "";
+            document.getElementById("valorTotal").value = "";
+        }
+    </script>
+
+</body>
+
+</html>
