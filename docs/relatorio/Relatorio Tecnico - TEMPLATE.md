@@ -314,12 +314,12 @@ soluções para o problema. 
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Joana: Contexto do Problema
-Henrique e Eduardo: Público Alvo | Personas
-André: Proposta de solução | Objetivos
- Maria Eduarda: História de usuários e requisitos
-Gustavo: Projeto de interface
-Pedro: Metodologia
+> Scrum Master: André Santana
+> Equipe de desenvolvimento: 
+> - André Santana (Desenvolvedor Front End)
+> - Maria Eduarda (Desenvolvedor Front End)
+> - Joana Morais (Desenvolvedor Front End)
+> - Pedro Rocha: (Desenvolvedor Front End)
 >
 
 ## Ferramentas
