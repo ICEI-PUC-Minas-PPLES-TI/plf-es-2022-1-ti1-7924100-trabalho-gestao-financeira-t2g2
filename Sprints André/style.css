@@ -1,0 +1,149 @@
+body{
+    background-color: #F8F8FB;
+}
+
+.entrada-cor{
+    color: green;
+}
+
+.saida-cor{
+    color: red;
+}
+
+#entradas-e-saidas-edt{
+    position: absolute;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px #c9c9d1;
+    margin-top: 10px;
+    padding: 15px;
+    font-family: sans-serif;
+}
+
+
+#op-edit{
+    width: 100%;
+}
+
+#flex{
+    display: grid;
+    grid-template-columns: 10% 90%;
+    align-items: center;
+    color: white;
+}
+
+#bttn1{
+    background-color: #6F52ED;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    padding-right: 30px;
+    padding-left: 15px;
+    cursor: pointer;
+}
+
+#margin{
+    margin-right: 50px;
+    font-size: 20px;
+}
+
+#entradas-e-saidas{
+    position: absolute;
+    display: none;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px #c9c9d1;
+    margin-top: 10px;
+    padding: 15px;
+    font-family: sans-serif;
+}
+
+#op{
+    width: 100%;
+}
+
+#saidas-hist{
+    height: 400px;
+    width: 280px;
+    border-radius: 10px;
+    box-shadow: 0px 6px #EDEDF6;
+    background-color: white;
+    overflow-y: scroll;
+    padding-top: 10px;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+#saidas-hist::-webkit-scrollbar {
+    width: 5px;
+}
+
+#saidas-hist::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+
+#saidas-hist::-webkit-scrollbar-thumb {
+    background: #DADCE4;
+    border-radius: 10px;
+}
+
+#saidas-hist::-webkit-scrollbar-thumb:hover {
+    background: #9d9ea5;
+}
+
+
+table, th, td {
+    border-bottom: 1px solid;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+table{
+    width: 100%;
+}
+
+#inputs{
+    font-family: sans-serif;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 300px;
+    text-align: center;
+}
+
+#inputs .cards{
+    width: 200px;
+    border-radius: 10px;
+    box-shadow: 0px 6px #EDEDF6;
+    background-color: white;
+    padding-top: 10px;
+    font-family: sans-serif;
+    font-size: 14px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    display: grid;
+    grid-template-columns: 25% 75%;
+    align-items: center;
+}
+
+.icone{
+    background-color: #F8F5FD;
+    border-radius: 100%;
+    font-size: 35px;
+    width: 70px;
+    height: 70px;
+    align-items: center;
+    display: grid;
+}
+
+#graph{
+    width: 250px;
+    height: 400px;
+}
+
+#dados{
+    display: grid;
+    grid-template-columns: 20% 30%;
+    align-items: center;
+}
