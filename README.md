@@ -8,9 +8,6 @@ Ajudar quem deseja organizar as finanças do dia a dia, e também proporcionar p
 * Maria Eduarda Amaral Muniz
 * Pedro Rocha
 * André Santana
-* Henrique Mascarenhas
-* Eduardo Puig
-* Gustavo Chagas
 
 ## Professores responsáveis
 
