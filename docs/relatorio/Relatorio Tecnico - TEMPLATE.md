@@ -190,31 +190,8 @@ Mapa de empatia:
 -"Dores"(necessidades,problemas que enfrenta, frustrações, obstáculos): 
 Dívidas, parcelas do financiamento, ainda não ter imóvel próprio, sustentar a educação dos filhos,
 
--"Ganhos"(desejos, benefécios, expêriencias que amplificam sua experiência): 
+-"Ganhos"(desejos, benefícios, expêriencias que amplificam sua experiência): 
 Já tem uma certa estabilidade financeira; ter uma família;
-
-
-> Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
-> você deve ser enumerar e descrever precisamente e de forma
-> personalizada todos os principais envolvidos com a solução almeja. 
-> 
-> Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
-> 
-> 
-> **Exemplo de Persona**
-> 
-> ![Exemplo de Persona](imaages/../images/persona.png)
-> 
-> Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 
 
 ## Histórias de Usuários
@@ -292,20 +269,11 @@ Que mostra algumas informações básicas como o saldo em conta da pessoa, e din
 
 ![New User Flow](https://user-images.githubusercontent.com/99201419/165001522-71aebd26-cd1d-43ea-93b5-1eea360eb286.png)
 
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
->
-> **Exemplo**:
-> 
-> ![Exemplo de UserFlow](images/userflow.jpg)
-
 
 ## Wireframes
 
 
-Login.Usuario tem a opcao de criar uma conta ou logar em uma ja
+Login - Usuario tem a opcao de criar uma conta ou logar em uma ja
 existente
 
 
@@ -336,18 +304,6 @@ Simulação. Onde o usuario pode fazer simulacoes sobre gastos, investimentos ou
 ![Captura de tela 2022-04-24 205033](https://user-images.githubusercontent.com/99201419/165001855-ca5387e5-ac9d-4133-aee7-e89962598876.png)
 
 
-> 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
-> **Exemplo**:
-> 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
-
-
 # Metodologia
 
 ......  COLOQUE AQUI O SEU TEXTO ......
@@ -355,12 +311,7 @@ Simulação. Onde o usuario pode fazer simulacoes sobre gastos, investimentos ou
 > O processo de trabalho foi realizado por meio de reuniões semanais na Faculdade e na plataforma online do Google Meets. Nesses encontros compartilhamos ideias, dúvidas, certezas e suposições sobre o problema, mapeamos o
 público alvo, fomos a campo fazer as entrevistas e com elas construímos as personas, identificando os problemas mais comuns e já pensando possíveis 
 soluções para o problema. 
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+>
 
 ## Divisão de Papéis
 
@@ -373,10 +324,6 @@ André: Proposta de solução | Objetivos
 Gustavo: Projeto de interface
 Pedro: Metodologia
 >
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-
 
 ## Ferramentas
 
@@ -386,8 +333,7 @@ Pedro: Metodologia
 |-----------|-------------------------|---------------|
 |Processo de Design Thinkgin  | Miro |   | https://miro.com/app/board/uXjVOBTKAwM=/
 |Repositório de código | GitHub |  | https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-ti1-7924100-trabalho-gestao-financeira-t2g2
-|Hospedagem do site | Heroku |  XXXXX | 
-|Protótipo Interativo | MavelApp ou Figma | XXXXXX | 
+|Hospedagem do site | Heroku |  XXXXX |  
 
 >
 > Miro, GitHub, google docs, PowerPoint, Figma, Canva, google drive, Google Meets. 
@@ -405,15 +351,9 @@ Pedro: Metodologia
 > diagramas utilizamos essa ferramenta por melhor captar as
 > necessidades da nossa solução.
 > 
-> **Links Úteis - Hospedagem**:
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Crie seu Site com o HostGator](https://www.hostgator.com.br/como-publicar-seu-site)
-> - [GoDady](https://br.godaddy.com/how-to)
-> - [GitHub Pages](https://pages.github.com/)
+
 
 ## Controle de Versão
-
-......  COLOQUE AQUI O SEU TEXTO ......
 
 > Discuta como a configuração do projeto foi feita na ferramenta de
 > versionamento escolhida. Exponha como a gerência de tags, merges,
@@ -445,8 +385,6 @@ Pedro: Metodologia
 > **Exemplo - GitHub Feature Branch Workflow**:
 >
 > ![Exemplo de Wireframe](images/Github-Workflow.png)
-
-# **############## SPRINT 1 ACABA AQUI #############**
 
 
 # Projeto da Solução
