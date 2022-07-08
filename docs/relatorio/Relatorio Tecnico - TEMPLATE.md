@@ -14,9 +14,6 @@
 > - Maria Eduarda Amaral Muniz
 > - Pedro Rocha
 > - Andre Santana
-> - Henrique Mascarenhas
-> - Eduardo Puig
-> - Gustavo Chagas
 
 # Estrutura do Documento
 
