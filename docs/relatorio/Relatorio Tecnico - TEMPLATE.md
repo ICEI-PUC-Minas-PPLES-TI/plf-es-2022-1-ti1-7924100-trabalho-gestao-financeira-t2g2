@@ -1,7 +1,7 @@
 # Informações do Projeto
 `NOME DO PROJETO`  
 
-......  Projeto de Gestão Financeira ......
+FinCare
 
 `CURSO` 
 
