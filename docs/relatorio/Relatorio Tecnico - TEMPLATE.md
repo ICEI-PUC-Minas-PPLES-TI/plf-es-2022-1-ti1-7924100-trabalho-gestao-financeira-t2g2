@@ -408,8 +408,6 @@ A publicação do site no Github Pages é feita por meio do repositório do proj
 
 ## Plano de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
 | Caso de Teste  | CT-01 – Cadastro de usuário |
 |-----------|-------------------------|
 |Requisitos Associados  | RF-01 - Ao entrar na página de cadastro, o site deverá mostrar todos os inputs de cadastro, sendo eles, usuário, nome complero, email, senha e a confirmação de senha. RF-02 - Ao inserir os dados, deve haver uma confirmação de que o usuário foi cadastrado. |
@@ -458,24 +456,37 @@ A publicação do site no Github Pages é feita por meio do repositório do proj
 > - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
 > -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
 
-## Ferramentas de Testes (Opcional)
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Comente sobre as ferramentas de testes utilizadas.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
-
 ## Registros de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+| Caso de Teste  | CT-01 – Cadastro de usuário |
+|-----------|-------------------------|
+|Objetivo do Teste  | Verificar se o usuário está sendo cadastrado corretamente.|
+|Resultados  | ![nome da imagem](link) |
 
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
+| Caso de Teste  | CT-02 – Login do usuário |
+|-----------|-------------------------|
+|Objetivo do Teste  | Verificar se o login está sendo realizado com sucesso e se caso o usuário inserir os dados errados, deverá retornar mensagem de erro.|
+|Resultados  | ![nome da imagem](link) |
+
+| Caso de Teste  | CT-03 – Adicionar nova entrada ou saída |
+|-----------|-------------------------|
+|Objetivo do Teste  | Fazer a verificação se os dados estão sendo gravados e exibidos em tela.|
+|Resultados  | ![nome da imagem](link) |
+
+| Caso de Teste  | CT-04 – Editar/excluir entrada e saída |
+|-----------|-------------------------|
+|Objetivo do Teste  | Verificar se os dados estão sendo removidos ou editados, e as informações atualizadas na tela.|
+|Resultados  | ![nome da imagem](link) |
+
+| Caso de Teste  | CT-05 – Lembrete de pagamentos |
+|-----------|-------------------------|
+|Objetivo do Teste  | Verificar se o item é adicionado a tabela de lembretes.|
+|Resultados  | ![nome da imagem](link) |
+
+| Caso de Teste  | CT-06 – Simulador de investimentos |
+|-----------|-------------------------|
+|Objetivo do Teste  | Verificar se o gráfico de projeção de investimentos está sendo gerado corretamente.|
+|Resultados  | ![nome da imagem](link) |
 
 
 # Referências
