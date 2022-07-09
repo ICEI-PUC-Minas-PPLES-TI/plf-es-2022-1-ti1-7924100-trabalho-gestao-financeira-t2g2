@@ -450,11 +450,6 @@ A publicação do site no Github Pages é feita por meio do repositório do proj
 |Passos  | 1) Acessar a página de simulador de investimentos 2) Inserir os dados solicitados 3) Confirmar o envio  |
 |Critérios de Êxito  | O dados serão processados e calculados, e após isso, irão inseridos no gráfico de projeção. |
 
-> 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
 
 ## Registros de Testes
 
