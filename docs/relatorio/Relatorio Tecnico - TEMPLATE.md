@@ -476,17 +476,17 @@ A publicação do site no Github Pages é feita por meio do repositório do proj
 | Caso de Teste  | CT-04 – Editar/excluir entrada e saída |
 |-----------|-------------------------|
 |Objetivo do Teste  | Verificar se os dados estão sendo removidos ou editados, e as informações atualizadas na tela.|
-|Resultados  | ![nome da imagem](link) |
+|Resultados  | ![nome da imagem](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-ti1-7924100-trabalho-gestao-financeira-t2g2/blob/master/docs/relatorio/images/edtexxc%20(1).jpeg) ![nome da imagem](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-ti1-7924100-trabalho-gestao-financeira-t2g2/blob/master/docs/relatorio/images/edtexxc%20(2).jpeg)|
 
 | Caso de Teste  | CT-05 – Lembrete de pagamentos |
 |-----------|-------------------------|
 |Objetivo do Teste  | Verificar se o item é adicionado a tabela de lembretes.|
-|Resultados  | ![nome da imagem](link) |
+|Resultados  | ![nome da imagem](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-ti1-7924100-trabalho-gestao-financeira-t2g2/blob/master/docs/relatorio/images/Lembrete.jpeg) |
 
 | Caso de Teste  | CT-06 – Simulador de investimentos |
 |-----------|-------------------------|
 |Objetivo do Teste  | Verificar se o gráfico de projeção de investimentos está sendo gerado corretamente.|
-|Resultados  | ![nome da imagem](link) |
+|Resultados  | ![nome da imagem](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-ti1-7924100-trabalho-gestao-financeira-t2g2/blob/master/docs/relatorio/images/Simulador.jpeg) |
 
 
 # Referências
