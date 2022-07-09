@@ -309,7 +309,6 @@ soluções para o problema. 
 
 ## Divisão de Papéis
 
- **Scrum Master:** André Santana
  **Equipe de desenvolvimento:**
  - André Santana (Desenvolvedor Front End)
  - Maria Eduarda (Desenvolvedor Front End)
