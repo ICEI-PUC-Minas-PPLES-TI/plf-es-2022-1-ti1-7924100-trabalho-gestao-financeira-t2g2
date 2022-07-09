@@ -471,7 +471,7 @@ A publicação do site no Github Pages é feita por meio do repositório do proj
 | Caso de Teste  | CT-03 – Adicionar nova entrada ou saída |
 |-----------|-------------------------|
 |Objetivo do Teste  | Fazer a verificação se os dados estão sendo gravados e exibidos em tela.|
-|Resultados  | ![nome da imagem](link) |
+|Resultados  | ![nome da imagem](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-ti1-7924100-trabalho-gestao-financeira-t2g2/blob/master/docs/relatorio/images/entrada%20(1).jpeg)  ![nome da imagem](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-ti1-7924100-trabalho-gestao-financeira-t2g2/blob/master/docs/relatorio/images/entrada%20(2).jpeg)|
 
 | Caso de Teste  | CT-04 – Editar/excluir entrada e saída |
 |-----------|-------------------------|
