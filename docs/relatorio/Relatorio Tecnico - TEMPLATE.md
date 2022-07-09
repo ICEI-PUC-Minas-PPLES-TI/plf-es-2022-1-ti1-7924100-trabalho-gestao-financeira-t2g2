@@ -466,7 +466,7 @@ A publicação do site no Github Pages é feita por meio do repositório do proj
 | Caso de Teste  | CT-02 – Login do usuário |
 |-----------|-------------------------|
 |Objetivo do Teste  | Verificar se o login está sendo realizado com sucesso e se caso o usuário inserir os dados errados, deverá retornar mensagem de erro.|
-|Resultados  | ![nome da imagem](link) |
+|Resultados  | ![nome da imagem](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-ti1-7924100-trabalho-gestao-financeira-t2g2/blob/master/docs/relatorio/images/login%20(1).jpeg) ![nome da imagem](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-ti1-7924100-trabalho-gestao-financeira-t2g2/blob/master/docs/relatorio/images/login%20(2).jpeg) |
 
 | Caso de Teste  | CT-03 – Adicionar nova entrada ou saída |
 |-----------|-------------------------|
