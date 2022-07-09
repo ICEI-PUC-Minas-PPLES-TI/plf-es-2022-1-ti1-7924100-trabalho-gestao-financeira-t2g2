@@ -487,10 +487,3 @@ A publicação do site no Github Pages é feita por meio do repositório do proj
 # Referências
 
 MORBECK, Amandina. Pesquisa mostra descontrole financeiro de metade dos brasileiros. Você e seu dinheiro. 05. fev. 2020. Disponível em: https://voceeseudinheiro.com.br/pesquisa-mostra-descontrole-financeiro-de-metade-dos-brasileiros/. Acesso em: 24 abr. 2022;
-
-> Inclua todas as referências (livros, artigos, sites, etc) utilizados
-> no desenvolvimento do trabalho.
-> 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
