@@ -303,16 +303,12 @@ Simulação. Onde o usuario pode fazer simulacoes sobre gastos, investimentos ou
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
 > O processo de trabalho foi realizado por meio de reuniões semanais na Faculdade e na plataforma online do Google Meets. Nesses encontros compartilhamos ideias, dúvidas, certezas e suposições sobre o problema, mapeamos o
 público alvo, fomos a campo fazer as entrevistas e com elas construímos as personas, identificando os problemas mais comuns e já pensando possíveis 
 soluções para o problema. 
 >
 
 ## Divisão de Papéis
-
-......  COLOQUE AQUI O SEU TEXTO ......
 
 > Scrum Master: André Santana
 > Equipe de desenvolvimento: 
@@ -324,13 +320,11 @@ soluções para o problema. 
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
-
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro |   | https://miro.com/app/board/uXjVOBTKAwM=/
-|Repositório de código | GitHub |  | https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-ti1-7924100-trabalho-gestao-financeira-t2g2
-|Hospedagem do site | Heroku |  XXXXX |  
+|Processo de Design Thinkgin  | Miro |   | [miro](https://miro.com/app/board/uXjVOBTKAwM=/) |
+|Repositório de código | GitHub |  | [GitHub](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-ti1-7924100-trabalho-gestao-financeira-t2g2)|
+|Hospedagem do site | GitHub Pages |  XXXXX |  
 
 >
 > Miro, GitHub, google docs, PowerPoint, Figma, Canva, google drive, Google Meets. 
@@ -349,72 +343,70 @@ soluções para o problema. 
 > necessidades da nossa solução.
 > 
 
-
-## Controle de Versão
-
-> Discuta como a configuração do projeto foi feita na ferramenta de
-> versionamento escolhida. Exponha como a gerência de tags, merges,
-> commits e branchs é realizada. Discuta como a gerência de issues foi
-> realizada.
-> A ferramenta de controle de versão adotada no projeto foi o
-> [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-> foi utilizado para hospedagem do repositório `upstream`.
-> 
-> O projeto segue a seguinte convenção para o nome de branchs:
-> 
-> - `master`: versão estável já testada do software
-> - `unstable`: versão já testada do software, porém instável
-> - `testing`: versão em testes do software
-> - `dev`: versão de desenvolvimento do software
-> 
-> Quanto à gerência de issues, o projeto adota a seguinte convenção para
-> etiquetas:
-> 
-> - `bugfix`: uma funcionalidade encontra-se com problemas
-> - `enhancement`: uma funcionalidade precisa ser melhorada
-> - `feature`: uma nova funcionalidade precisa ser introduzida
->
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
-> - [5 Git Workflows & Branching Strategy to deliver better code](https://zepel.io/blog/5-git-workflows-to-improve-development/)
->
-> **Exemplo - GitHub Feature Branch Workflow**:
->
-> ![Exemplo de Wireframe](images/Github-Workflow.png)
-
-
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Nesta seção são apresentados os detalhes técnicos da solução criada pela equipe, tratando da Arquitetura da Solução, as estruturas de dados e as telas já implementadas.
+
+**Template do site**
+
+O template criado está disponível aqui no github e é composto pelos seguintes layouts: 
+
+- Login e Cadastro
+- Tela principal
+- Tela de lembrete de pagamentos
+- Tela de projeção de investimentos
+
+**Login e Cadastro**
+
+Tela que permite que o usuário se cadastre no site para acessá-lo ou que o permite se logar para ir para a página principal. 
+
+![login](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-ti1-7924100-trabalho-gestao-financeira-t2g2/blob/master/docs/relatorio/images/login.jfif)
+
+![cadastro](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-ti1-7924100-trabalho-gestao-financeira-t2g2/blob/master/docs/relatorio/images/cadastro.jfif)
+
+**Tela Principal**
+
+Tela que abrange todas as visualizações iniciais do site, o cadastro de recibos e despesas, tabela que ilustra as despesas e recibos durante os meses e mapeamento de gastos dividido em categorias.
+
+![tela inicial](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-ti1-7924100-trabalho-gestao-financeira-t2g2/blob/master/docs/relatorio/images/tela%20inicial.jfif)
+
+**Lembrete de Pagamentos**
+
+Este layout é utilizado para exibir o cadastro de pagamentos futuros do usuário.
+
+![lembrete](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-ti1-7924100-trabalho-gestao-financeira-t2g2/blob/master/docs/relatorio/images/lembrete.jfif)
+
+**Cadastro de objetivos**
+
+Local onde é cadastrado os investimentos e objetivos do usuário em um determinado período de tempo.
+
+![objetivos](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-ti1-7924100-trabalho-gestao-financeira-t2g2/blob/master/docs/relatorio/images/objetivos.jfif)
 
 ## Tecnologias Utilizadas
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-> problema, ou seja, implementar a sua solução. Liste todas as
-> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
-> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-> Apresente também uma figura explicando como as tecnologias estão
-> relacionadas ou como uma interação do usuário com o sistema vai ser
-> conduzida, por onde ela passa até retornar uma resposta ao usuário.
-> 
-> Inclua os diagramas de User Flow, esboços criados pelo grupo
-> (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
-> item textualmente comentando e complementando o que está apresentado
-> nas imagens.
+> - Linguagens: Javascript, CSS, HTML
+> - IDE: Visual Studio Code
+> - Ferramentas: Extensão Live Server
+> - Serviços Web: Github, Google Docs, Figma, Canva, Miro, Trello
+> - Framework: Bootstrap
 
 ## Arquitetura da solução
 
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
+**Componentes**
 
-> Inclua um diagrama da solução e descreva os módulos e as tecnologias
-> que fazem parte da solução. Discorra sobre o diagrama.
-> 
-> **Exemplo do diagrama de Arquitetura**:
-> 
-> ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
+A solução implementada conta com os seguintes módulos:
+Navegador - Interface básica do sistema 
+Páginas Web - Conjunto de arquivos HTML, CSS, JavaScript e gráficos que implementam as funcionalidades do sistema.
+Local Storage - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles: 
+Login - cadastrar e permitir o acesso do usuário ao site.
+Lembretes - registra pagamentos futuros do usuário. 
+Cadastros - guarda recibos e despesas do usuário.
+Hospedagem - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
+
+**Hospedagem**
+
+O site utiliza a plataforma Github Pages como ambiente de hospedagem do site do projeto. 
+A publicação do site no Github Pages é feita por meio do repositório do projeto, onde o Github Pages acessa esse repositório e o transforma em um site.
 
 
 # Avaliação da Aplicação
