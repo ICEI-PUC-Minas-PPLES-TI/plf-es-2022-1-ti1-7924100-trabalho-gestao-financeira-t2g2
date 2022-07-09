@@ -412,8 +412,7 @@ A publicação do site no Github Pages é feita por meio do repositório do proj
 
 | Caso de Teste  | CT-01 – Cadastro de usuário |
 |-----------|-------------------------|
-|Requisitos Associados  | RF-01 - Ao entrar na página de cadastro, o site deverá mostrar todos os inputs de cadastro, sendo eles, usuário, nome complero, email, senha e a confirmação de senha.
-RF-02 - Ao inserir os dados, deve haver uma confirmação de que o usuário foi cadastrado. |
+|Requisitos Associados  | RF-01 - Ao entrar na página de cadastro, o site deverá mostrar todos os inputs de cadastro, sendo eles, usuário, nome complero, email, senha e a confirmação de senha. RF-02 - Ao inserir os dados, deve haver uma confirmação de que o usuário foi cadastrado. |
 
 > 
 > **Links Úteis**:
