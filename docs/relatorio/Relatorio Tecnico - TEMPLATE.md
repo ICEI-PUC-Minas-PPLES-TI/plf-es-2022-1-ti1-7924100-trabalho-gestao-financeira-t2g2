@@ -461,7 +461,7 @@ A publicação do site no Github Pages é feita por meio do repositório do proj
 | Caso de Teste  | CT-01 – Cadastro de usuário |
 |-----------|-------------------------|
 |Objetivo do Teste  | Verificar se o usuário está sendo cadastrado corretamente.|
-|Resultados  |![cadastro](https://raw.githubusercontent.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-ti1-7924100-trabalho-gestao-financeira-t2g2/6dba0628ece12dd71431fa217725b1b63487a1d7/docs/relatorio/images/WhatsApp%20Image%202022-07-08%20at%2021.55.15.jpeg) |
+|Resultados  |![cadastro](https://raw.githubusercontent.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-ti1-7924100-trabalho-gestao-financeira-t2g2/6dba0628ece12dd71431fa217725b1b63487a1d7/docs/relatorio/images/WhatsApp%20Image%202022-07-08%20at%2021.55.15.jpeg) ![confirmacao](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-ti1-7924100-trabalho-gestao-financeira-t2g2/blob/master/docs/relatorio/images/WhatsApp%20Image%202022-07-08%20at%2021.55.15%20(1).jpeg) |
 
 | Caso de Teste  | CT-02 – Login do usuário |
 |-----------|-------------------------|
