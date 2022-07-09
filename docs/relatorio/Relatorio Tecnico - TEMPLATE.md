@@ -414,11 +414,43 @@ A publicação do site no Github Pages é feita por meio do repositório do proj
 |-----------|-------------------------|
 |Requisitos Associados  | RF-01 - Ao entrar na página de cadastro, o site deverá mostrar todos os inputs de cadastro, sendo eles, usuário, nome complero, email, senha e a confirmação de senha. RF-02 - Ao inserir os dados, deve haver uma confirmação de que o usuário foi cadastrado. |
 |Objetivo do Teste  | Verificar se o usuário está sendo cadastrado corretamente.|
-|Passos  | 1) Acessar o Navegador
-2) Informar o endereço do Site
-3) Acessar a página de cadastro
-4) Inserir os dados de cadastro e confirmar
-|
+|Passos  | 1) Acessar o Navegador 2) Informar o endereço do Site 3) Acessar a página de cadastro 4) Inserir os dados de cadastro e confirmar|
+|Critérios de Êxito  | Os dados devem ser armazenados em um JSON que irá guardar todas as informações do usuário. Esse JSON deverá ser salvo no Local Storage do navegador, para guardar as informações do usuário.|
+
+| Caso de Teste  | CT-02 – Login do usuário |
+|-----------|-------------------------|
+|Requisitos Associados  | RF-03 - Após realizar o cadastro o usuário deverá realizar o login com os dados cadastrados.|
+|Objetivo do Teste  | Verificar se o login está sendo realizado com sucesso e se caso o usuário inserir os dados errados, deverá retornar mensagem de erro.|
+|Passos  | 1) Acessar o Navegador 2) Realizar o cadastro 3) Inserir os dados para login 4) Confirmar e realizar o login|
+|Critérios de Êxito  | A página deverá consultar os arquivos em local storage para fazer a confirmação dos dados de login.|
+
+| Caso de Teste  | CT-03 – Adicionar nova entrada ou saída |
+|-----------|-------------------------|
+|Requisitos Associados  | RF-04 – O usuário deverá clicar no botão de “Adicionar nova entrada ou saída”, inserir os dados e confirmar.|
+|Objetivo do Teste  | Fazer a verificação se os dados estão sendo gravados e exibidos em tela.|
+|Passos  | 1) Acessar a página de dashboard 2) Pressionar o botão de “Adicionar nova entrada ou saída” 3) Inserir os dados 4) Confirmar o envio|
+|Critérios de Êxito  | Os dados serão armazenados em uma estrutura JSON, dentro do Local Storage do navegador. O programa deverá exibir a informação na área de saída ou entrada e realizar o cálculo de saldo final. O gráfico de mapeamento de gastos deverá ser atualizado, caso o cliente insira uma saída. E o gráfico de histórico também atualização.|
+
+| Caso de Teste  | CT-04 – Editar/excluir entrada e saída |
+|-----------|-------------------------|
+|Requisitos Associados  | RF-05 – Após inserir a entrada ou saída, o usuário deverá ser capaz de editar ou excluir esses dados que ficam numa tabela.|
+|Objetivo do Teste  | Verificar se os dados estão sendo removidos ou editados, e as informações atualizadas na tela.|
+|Passos  | 1) Acessar a página de dashboard 2) Editar ou excluir algum dado da tabela 3) Se editado, inserir os novos dados 4) Confirmar o envio|
+|Critérios de Êxito  | O dados inputados no arquivo JSON, deverão ser excluídos ou editados, a depender da opção selecionada. Os dados exibidos em tela de entrada e saída terão que ser atualizados após a confirmação de alteração.|
+
+| Caso de Teste  | CT-05 – Lembrete de pagamentos |
+|-----------|-------------------------|
+|Requisitos Associados  | RF-06 – O usuário poderá incluir lembretes de pagamentos, com data, valor, nome e descrição.|
+|Objetivo do Teste  | Verificar se o item é adicionado a tabela de lembretes.|
+|Passos  | 1) Acessar a página de lembrete de pagamentos 2) Clicar no botão de incluir 3) Inserir os dados solicitados 4) Confirmar o envio|
+|Critérios de Êxito  | O dados deverão ser armazenados em um JSON, e guardados no local storage do navegador.|
+
+| Caso de Teste  | CT-06 – Simulador de investimentos |
+|-----------|-------------------------|
+|Requisitos Associados  | RF-07 – O usuário poderá simular investimentos com base nos dados inseridos por ele.|
+|Objetivo do Teste  | Verificar se o gráfico de projeção de investimentos está sendo gerado corretamente.|
+|Passos  | 1) Acessar a página de simulador de investimentos 2) Inserir os dados solicitados 3) Confirmar o envio  |
+|Critérios de Êxito  | O dados serão processados e calculados, e após isso, irão inseridos no gráfico de projeção. |
 
 > 
 > **Links Úteis**:
