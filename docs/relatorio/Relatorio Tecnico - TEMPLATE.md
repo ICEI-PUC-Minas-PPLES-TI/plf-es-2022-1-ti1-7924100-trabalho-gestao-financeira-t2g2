@@ -320,8 +320,8 @@ soluções para o problema. 
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro |   | [miro](https://miro.com/app/board/uXjVOBTKAwM=/) |
-|Repositório de código | GitHub |  | [GitHub](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-ti1-7924100-trabalho-gestao-financeira-t2g2)|
+|Processo de Design Thinkgin  | Miro |   | ![miro](https://miro.com/app/board/uXjVOBTKAwM=/) |
+|Repositório de código | GitHub |  | ![GitHub](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-ti1-7924100-trabalho-gestao-financeira-t2g2)|
 |Hospedagem do site | GitHub Pages |  XXXXX |  
 
 >
