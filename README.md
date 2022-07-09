@@ -19,4 +19,4 @@ Ajudar quem deseja organizar as finanças do dia a dia, e também proporcionar p
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+Entre no link https://icei-puc-minas-pples-ti.github.io/plf-es-2022-1-ti1-7924100-trabalho-gestao-financeira-t2g2/codigo/Projeto%20final/login.html para acessar o site. Após isso, se cadastre no site se não possuir uma conta ou logue-se para ser direcionado à página incial. A partir daí, já estarão disponíveis todas as funcionalidades do site para serem utilizadas.
