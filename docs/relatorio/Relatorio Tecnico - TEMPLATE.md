@@ -310,13 +310,13 @@ soluções para o problema. 
 
 ## Divisão de Papéis
 
-> Scrum Master: André Santana
-> Equipe de desenvolvimento: 
-> - André Santana (Desenvolvedor Front End)
-> - Maria Eduarda (Desenvolvedor Front End)
-> - Joana Morais (Desenvolvedor Front End)
-> - Pedro Rocha: (Desenvolvedor Front End)
->
+ Scrum Master: André Santana
+ Equipe de desenvolvimento: 
+ - André Santana (Desenvolvedor Front End)
+ - Maria Eduarda (Desenvolvedor Front End)
+ - Joana Morais (Desenvolvedor Front End)
+ - Pedro Rocha: (Desenvolvedor Front End)
+
 
 ## Ferramentas
 
