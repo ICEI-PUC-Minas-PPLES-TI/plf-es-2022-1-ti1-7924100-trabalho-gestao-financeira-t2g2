@@ -406,23 +406,15 @@ Hospedagem - local na Internet onde as páginas são mantidas e acessadas pelo n
 O site utiliza a plataforma Github Pages como ambiente de hospedagem do site do projeto. 
 A publicação do site no Github Pages é feita por meio do repositório do projeto, onde o Github Pages acessa esse repositório e o transforma em um site.
 
-
-# Avaliação da Aplicação
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
-
 ## Plano de Testes
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
+| Caso de Teste  | CT-01 – Cadastro de usuário |
+|-----------|-------------------------|
+|Requisitos Associados  | RF-01 - Ao entrar na página de cadastro, o site deverá mostrar todos os inputs de cadastro, sendo eles, usuário, nome complero, email, senha e a confirmação de senha.
+RF-02 - Ao inserir os dados, deve haver uma confirmação de que o usuário foi cadastrado. |
+
 > 
 > **Links Úteis**:
 > - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
