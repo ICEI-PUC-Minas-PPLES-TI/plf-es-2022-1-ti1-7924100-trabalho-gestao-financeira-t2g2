@@ -1,0 +1,40 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: T2-G2 - Falta de gestão financeira
+authors:
+  - family-names: Santana
+    given-names: André
+  - family-names: Iuna de Morais
+    given-names: Joana
+  - family-names: Amaral Muniz
+    given-names: Maria Eduarda
+  - family-names: Rocha Resende
+    given-names: Pedro
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Augusto Lara Soares
+    given-names: Felipe
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Alves de Oliveira
+    given-names: Jonathan
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Felipe Dias Ferreira da Rocha
+    given-names: Roberto    
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Vieira Carneiro
+    given-names: Rommel
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: de Assis Alves da Silva
+    given-names: Simone
+
+keywords:
+  - gestão
+  - financeiro
+repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-ti1-7924100-trabalho-gestao-financeira-t2g2
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2022-07-14   
